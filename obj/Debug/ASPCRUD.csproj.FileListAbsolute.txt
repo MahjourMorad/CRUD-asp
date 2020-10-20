@@ -1,0 +1,9 @@
+F:\Youtube Channel\Dotnet Mob\asp.net tutorial\mysql crud\project\ASPCRUD\ASPCRUD\bin\ASPCRUD.dll.config
+F:\Youtube Channel\Dotnet Mob\asp.net tutorial\mysql crud\project\ASPCRUD\ASPCRUD\bin\ASPCRUD.dll
+F:\Youtube Channel\Dotnet Mob\asp.net tutorial\mysql crud\project\ASPCRUD\ASPCRUD\bin\ASPCRUD.pdb
+F:\Youtube Channel\Dotnet Mob\asp.net tutorial\mysql crud\project\ASPCRUD\ASPCRUD\obj\Debug\ASPCRUD.csprojResolveAssemblyReference.cache
+F:\Youtube Channel\Dotnet Mob\asp.net tutorial\mysql crud\project\ASPCRUD\ASPCRUD\obj\Debug\ASPCRUD.dll
+F:\Youtube Channel\Dotnet Mob\asp.net tutorial\mysql crud\project\ASPCRUD\ASPCRUD\obj\Debug\ASPCRUD.pdb
+C:\Users\MAHJOUR\source\repos\ASPCRUD\ASPCRUD\obj\Debug\ASPCRUD.csprojAssemblyReference.cache
+C:\Users\MAHJOUR\source\repos\ASPCRUD\ASPCRUD\obj\Debug\ASPCRUD.dll
+C:\Users\MAHJOUR\source\repos\ASPCRUD\ASPCRUD\obj\Debug\ASPCRUD.pdb
